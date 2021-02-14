@@ -8,7 +8,7 @@
 
 #### This system aids parents/guardian to diagnose their children, with the help of the information provided by them.
 
-## The Detection system has 4 modules
+### The Detection system has 4 modules
 
 #### Module 1 - Image classification
 #### Module 2 - Predictive Analysis
