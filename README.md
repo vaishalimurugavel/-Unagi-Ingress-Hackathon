@@ -6,9 +6,9 @@
 
 #### Automation is the creation and application of technologies to produce and deliver goods and services with minimal human intervention. Automation has been booming in every field, from Industrial, Home automation,it has also been emerging in medical diagnosis. Hence we believe Automation of medical diagnosis is the new normal.
 
-#### Autism, or autism spectrum disorder (ASD), refers to a broad range of conditions characterized by challenges with social skills, repetitive behaviors, speech and nonverbal communication. There are no proper medical tests to diagnose Autism. The doctor has to monitor the patient over a period of time, monitoring their behavior to conclude.
+#### Autism, or autism spectrum disorder (ASD), refers to a broad range of conditions characterized by challenges with social skills, repetitive behaviours, speech and nonverbal communication. There are no proper medical tests to diagnose Autism. The doctor has to monitor the patient over a period of time, monitoring their behaviour to conclude.
 
-#### This system aids parents/guardian to diagnose their children, with the help of the information provided by them.
+#### This system aids parent/guardian to diagnose their children, with the help of the information provided by them.
 
 ### The Detection system has 4 modules
 
